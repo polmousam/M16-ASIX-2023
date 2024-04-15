@@ -1,0 +1,4 @@
+﻿  Rutina.cpp
+D:\OneDrive - Centre d'Estudis Monlau\M16\LibreriaEstaticaMourin\PracticaLIBRERIA\StaticRutina\RutinaLibreria\Rutina.cpp(21): warning C4715: 'MathLibrary::Funciones::TMB': no todas las rutas de acceso de control devuelven un valor
+D:\OneDrive - Centre d'Estudis Monlau\M16\LibreriaEstaticaMourin\PracticaLIBRERIA\StaticRutina\RutinaLibreria\Rutina.cpp(35): warning C4715: 'MathLibrary::Funciones::Sport': no todas las rutas de acceso de control devuelven un valor
+  RutinaLibreria.vcxproj -> D:\OneDrive - Centre d'Estudis Monlau\M16\LibreriaEstaticaMourin\PracticaLIBRERIA\StaticRutina\x64\Debug\RutinaLibreria.lib
