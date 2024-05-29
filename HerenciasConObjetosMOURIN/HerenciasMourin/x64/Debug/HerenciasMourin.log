@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ytpol\OneDrive - Centre d'Estudis Monlau\M16\HERENCIES\HerenciasMourin\main.cpp(57,25): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  HerenciasMourin.vcxproj -> C:\Users\ytpol\OneDrive - Centre d'Estudis Monlau\M16\HERENCIES\HerenciasMourin\x64\Debug\HerenciasMourin.exe
